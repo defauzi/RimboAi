@@ -1,0 +1,5 @@
+streamlit
+pillow
+numpy
+opencv-python
+tensorflow>=2.15,<2.18
