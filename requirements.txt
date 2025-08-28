@@ -1,5 +1,10 @@
-streamlit
-pillow
-numpy
-opencv-python
-tensorflow>=2.15,<2.18
+streamlit==1.36.0
+numpy==1.26.4
+pillow==10.4.0
+opencv-python-headless==4.10.0.84
+matplotlib==3.9.2
+scikit-learn==1.5.1
+tensorflow==2.16.1
+protobuf==4.25.3
+h5py==3.11.0
+typing-extensions==4.12.2
