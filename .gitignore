@@ -2,3 +2,7 @@ streamlit_app/venv/
 streamlit_app/__pycache__/
 streamlit_app/*.pyc
 streamlit_app/.streamlit/secrets.toml
+streamlit_app/venv/
+streamlit_app/__pycache__/
+streamlit_app/*.pyc
+streamlit_app/.streamlit/secrets.toml
